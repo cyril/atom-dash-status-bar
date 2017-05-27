@@ -9,7 +9,7 @@
     "dash",
     "price"
   ],
-  "repository": "https://github.com/cyril/dash-status-bar",
+  "repository": "https://github.com/cyril/atom-dash-status-bar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
