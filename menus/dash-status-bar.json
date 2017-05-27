@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle dash-status-bar",
+        "command": "dash-status-bar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "DASH Status Bar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "dash-status-bar:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
