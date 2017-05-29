@@ -7,7 +7,7 @@
     "cryptocurrency",
     "market",
     "dash",
-    "price"
+    "price-ticker"
   ],
   "repository": "https://github.com/cyril/atom-dash-status-bar",
   "license": "MIT",
